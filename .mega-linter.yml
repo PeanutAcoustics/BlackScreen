@@ -18,7 +18,7 @@ DISABLE_LINTERS:
   - HTML_DJLINT
 
 DISABLE:
-  - COPYPASTE # Comment to enable checks of excessive copy-pastes
+#   - COPYPASTE # Comment to enable checks of excessive copy-pastes
   - SPELL # Uncomment to disable checks of spelling mistakes
   - REPOSITORY
 
